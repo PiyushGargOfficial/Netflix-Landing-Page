@@ -8,3 +8,6 @@ Languages Used :
 1. HTML
 2. CSS
 3. Javascript
+
+
+https://netflix-landing-page-piyush.netlify.com
